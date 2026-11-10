@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Lhila Whitmore 👋
 
-<!--
-**lhilawhitmore/lhilawhitmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI automation & web developer based in Gauteng, South Africa.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LLM apps and AI agents
+- Workflow automation and API integrations
+- Data cleaning and analysis
+- Web apps
+
+## Tech
+
+Python · JavaScript · LLM APIs · Automation tools · SQL
+
+## Work with me
+
+I'm open to remote freelance projects.
+
+- Upwork: https://www.upwork.com/freelancers/~016b53b1bb714b7704
+- LinkedIn: https://www.linkedin.com/in/lhilawhitmore
